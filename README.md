@@ -4,6 +4,8 @@ Una aplicación web interactiva que permite a los usuarios marcar sus libros fav
 
 <img width="1907" height="869" alt="Captura de pantalla 2026-04-02 175442" src="https://github.com/user-attachments/assets/7c7842d1-bfd5-4b91-9357-028ac98a342c" />
 
+*Puedes visitar el sitio en:* https://lovecraftiancode.github.io/Libros-Favoritos---Interactive-List/
+
 ## Características
 
 - Marcar/desmarcar libros favoritos con animación de corazón
